@@ -1,7 +1,7 @@
 {
 "name": "CashFlow",
-"description": "Elevate your financial well-being while helping decentralization.",
+"description": "Elevate your financial well-being whilst helping decentralization.",
 "ticker": "CFLOW",
 "homepage": "https://www.cashflowpool.com",
-"extended": "https://raw.githubusercontent.com/cfpool/cf/master/cf.json"
+"extended": "https://raw.githubusercontent.com/cfpool/cf/master/cf_e.json"
 }
