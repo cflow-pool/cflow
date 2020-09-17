@@ -1,0 +1,6 @@
+{
+    "name": "Cash Flow",
+    "ticker": "CFLOW",
+    "discord": " 755361643738693742",
+"validation":"https://raw.githubusercontent.com/cfpool/cf/master/validator.json"
+}
